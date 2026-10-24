@@ -75,6 +75,16 @@ I'm **Sipun Das**, a cyberpunk-inspired tech enthusiast bridging **Offensive Sec
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sipun1220&bg_color=000000&color=00eaff&line=ff3c38&point=ffffff&area=true&hide_border=true" />
 </div>
 
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> &nbsp;CONTRIBUTION.SNAKE
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sipun1220/sipun1220/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sipun1220/sipun1220/output/snake.svg">
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sipun1220/sipun1220/output/snake.svg">
+  </picture>
+</div>
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25"> &nbsp;ESTABLISH.CONNECTION
 
 <div align="center">
