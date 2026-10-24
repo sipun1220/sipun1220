@@ -1,76 +1,97 @@
-# Hi there, I'm SIPUN DAS ??
-
-## ??? Cybersecurity | ?? Networking | ?? Web Development Enthusiast
-
-[![GitHub followers](https://img.shields.io/github/followers/sipun1220?label=Followers&style=social)](https://github.com/sipun1220)
-[![GitHub stars](https://img.shields.io/github/stars/sipun1220?label=Stars&style=social)](https://github.com/sipun1220)
-
-## ?? About Me
-
-I'm a passionate tech enthusiast with a strong interest in **Cybersecurity**, **Computer Networking**, and **Full-Stack Web Development**. I love exploring security vulnerabilities, building secure web applications, and understanding how networks work behind the scenes.
-
-- ?? Currently learning & building projects in **Ethical Hacking**, **Network Security**, and **Web Development**
-- ?? Exploring tools like **Kali Linux**, **Wireshark**, **Burp Suite**, **Nmap**, and **Metasploit**
-- ?? Interested in **Bug Bounty Hunting**, **SOC Analysis**, **Cloud Security** & **Secure Coding**
-- ?? Goal: To become a skilled **Security-Focused Developer**
-- ? Fun fact: I enjoy breaking things to learn how to secure them
-
-## ??? Tech Stack
-
-### ?? Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ?? Cybersecurity & Networking
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0082C9?style=for-the-badge&logo=databricks&logoColor=white)
-
-### ?? Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-## ?? GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sipun1220&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sipun1220&layout=compact&langs_count=8&theme=tokyonight"/>
+﻿<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001f3f,100:00eaff&height=200&section=header&text=SIPUN%20DAS&fontSize=70&fontColor=00eaff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Networking%20%7C%20Web%20Development&descAlignY=55&descSize=20" />
 </div>
 
-## ?? Streak Stats
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00EAFF&center=true&vCenter=true&width=650&lines=Ethical+Hacker+%7C+Network+Security+Enthusiast;Full+Stack+Web+Developer;Breaking+to+Learn%2C+Learning+to+Secure;Always+Curious%2C+Always+Learning)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sipun1220&theme=tokyonight" alt="sipun1220" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-## ?? Connect With Me
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> &nbsp;SYSTEM.INIT()
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sipun1220)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sipun-das)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sipun1220)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sipun1220)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+```text
+[BOOTING...] Establishing Secure Connection...
+[ACCESS GRANTED] Welcome to sipun1220's Terminal
+[STATUS] ONLINE | NODE: CYBER-SEC | CLEARANCE: ROOT
+```
 
-## ?? Quote
+I'm **Sipun Das**, a cyberpunk-inspired tech enthusiast bridging **Offensive Security**, **Computer Networks** and **Modern Web Development**. I build, break and secure digital environments to sharpen my skillset.
 
-*"The quieter you become, the more you are able to hear."* - Kali Linux Mindset
+- `> whoami` : Security-Focused Developer & Network Explorer
+- `> goal` : Master Red Teaming & Secure Full-Stack Development
+- `> motto` : *"Hack the logic. Secure the code. Own the network."*
+- `> status` : CTF Grinding | Project Building | Always Learning
 
----
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="25"> &nbsp;ARSENAL
 
-? From [sipun1220](https://github.com/sipun1220)
+<div align="center">
+
+### [ CYBERSECURITY & NETWORKING ]
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00eaff)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00ff9d)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=ff3c38)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=2596CD)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Cisco](https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
+
+### [ WEB DEVELOPMENT ]
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF5722)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00eaff)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFD93B)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00eaff)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+
+### [ TOOLS & ENVIRONMENT ]
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff9d)
+
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="25"> &nbsp;SYSTEM.STATS
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sipun1220&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00eaff&icon_color=ff3c38&text_color=ffffff&ring_color=00eaff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sipun1220&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=000000&title_color=00eaff&text_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sipun1220&theme=radical&hide_border=true&background=000000&ring=00eaff&fire=ff3c38&currStreakLabel=00eaff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9f9f9f" />
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="25"> &nbsp;ACTIVITY.MATRIX
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sipun1220&bg_color=000000&color=00eaff&line=ff3c38&point=ffffff&area=true&hide_border=true" />
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25"> &nbsp;ESTABLISH.CONNECTION
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00eaff)](https://github.com/sipun1220)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/sipun-das)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/sipun1220)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/sipun1220)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:yourmail@gmail.com)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001f3f,100:00eaff&height=120&section=footer" />
+</div>
+
+```text
+[SYSTEM] Connection Terminated... But The Journey Never Ends.
+[TRACE] root@sipun1220:~$ _
+```
