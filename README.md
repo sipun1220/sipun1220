@@ -1,12 +1,24 @@
 ﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001f3f,100:00eaff&height=200&section=header&text=SIPUN%20DAS&fontSize=70&fontColor=00eaff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Networking%20%7C%20Web%20Development&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001f3f,100:00eaff&height=220&section=header&text=SIPUN%20DAS&fontSize=70&fontColor=00eaff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Networking%20%7C%20Web%20Development&descAlignY=55&descSize=20" alt="header" />
 </div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00EAFF&center=true&vCenter=true&width=650&lines=Ethical+Hacker+%7C+Network+Security+Enthusiast;Full+Stack+Web+Developer;Breaking+to+Learn%2C+Learning+to+Secure;Always+Curious%2C+Always+Learning)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00EAFF&center=true&vCenter=true&width=650&lines=Ethical+Hacker+%7C+Network+Security+Enthusiast;Full+Stack+Web+Developer;Breaking+to+Learn%2C+Learning+to+Secure;Always+Curious%2C+Always+Learning" alt="Typing SVG" />
+  </a>
 </div>
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/sipun1220?style=for-the-badge&logo=github&label=FOLLOWERS&color=00eaff&labelColor=000000" alt="followers" />
+  <img src="https://img.shields.io/github/stars/sipun1220?style=for-the-badge&logo=github&label=STARS&color=ff3c38&labelColor=000000" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=sipun1220&style=for-the-badge&color=00eaff&label=VISITORS" alt="visitors" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="620" alt="coding" />
+</div>
+
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> &nbsp;SYSTEM.INIT()
 
@@ -18,12 +30,19 @@
 
 I'm **Sipun Das**, a cyberpunk-inspired tech enthusiast bridging **Offensive Security**, **Computer Networks** and **Modern Web Development**. I build, break and secure digital environments to sharpen my skillset.
 
-- `> whoami` : Security-Focused Developer & Network Explorer
-- `> goal` : Master Red Teaming & Secure Full-Stack Development
-- `> motto` : *"Hack the logic. Secure the code. Own the network."*
-- `> status` : CTF Grinding | Project Building | Always Learning
+<div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="25"> &nbsp;ARSENAL
+| `> whoami` | Security-Focused Developer & Network Explorer |
+| :--- | :--- |
+| `> goal` | Master Red Teaming & Secure Full-Stack Development |
+| `> motto` | *"Hack the logic. Secure the code. Own the network."* |
+| `> status` | CTF Grinding | Project Building | Always Learning |
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="25" /> &nbsp;ARSENAL
 
 <div align="center">
 
@@ -58,24 +77,30 @@ I'm **Sipun Das**, a cyberpunk-inspired tech enthusiast bridging **Offensive Sec
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="25"> &nbsp;SYSTEM.STATS
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="25" /> &nbsp;SYSTEM.STATS
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sipun1220&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00eaff&icon_color=ff3c38&text_color=ffffff&ring_color=00eaff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sipun1220&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=000000&title_color=00eaff&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sipun1220&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00eaff&icon_color=ff3c38&text_color=ffffff&ring_color=00eaff" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sipun1220&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=000000&title_color=00eaff&text_color=ffffff" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sipun1220&theme=radical&hide_border=true&background=000000&ring=00eaff&fire=ff3c38&currStreakLabel=00eaff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9f9f9f" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sipun1220&theme=radical&hide_border=true&background=000000&ring=00eaff&fire=ff3c38&currStreakLabel=00eaff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9f9f9f" alt="GitHub streak" />
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="25"> &nbsp;ACTIVITY.MATRIX
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="25" /> &nbsp;ACTIVITY.MATRIX
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sipun1220&bg_color=000000&color=00eaff&line=ff3c38&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sipun1220&bg_color=000000&color=00eaff&line=ff3c38&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> &nbsp;CONTRIBUTION.SNAKE
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25" /> &nbsp;CONTRIBUTION.SNAKE
 
 <div align="center">
   <picture>
@@ -85,7 +110,9 @@ I'm **Sipun Das**, a cyberpunk-inspired tech enthusiast bridging **Offensive Sec
   </picture>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25"> &nbsp;ESTABLISH.CONNECTION
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25" /> &nbsp;ESTABLISH.CONNECTION
 
 <div align="center">
 
@@ -98,7 +125,7 @@ I'm **Sipun Das**, a cyberpunk-inspired tech enthusiast bridging **Offensive Sec
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001f3f,100:00eaff&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001f3f,100:00eaff&height=120&section=footer" alt="footer" />
 </div>
 
 ```text
